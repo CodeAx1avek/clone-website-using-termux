@@ -12,9 +12,7 @@ hey guys welcome to our github page and here we are introudcing a website or App
 
 ## Follow us:
 
- - [Youtube Channel](https://youtube.com/c/codeax10)
  - [Instagram](https://www.instagram.com/codeax1/)
- - [Website](https://coursecodeax.herokuapp.com)
 
 
 
@@ -32,7 +30,7 @@ To deploy this on termx
   apt upgrade
   git clone https://github.com/CodeAx1avek/clone-website-using-termux.git
   ls
-  cd website-clone
+  cd clone-website-using-termux
   ls
   python script.py
 ```
@@ -44,7 +42,7 @@ To deploy in kali
   apt-get upgrade
   git clone https://github.com/CodeAx1avek/clone-website-using-termux.git
   ls
-  cd website-clone
+  cd clone-website-using-termux
   python script.py
 ```
 
